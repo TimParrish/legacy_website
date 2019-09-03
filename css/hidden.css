@@ -1,0 +1,13 @@
+#timer{
+	padding-top: 25px;
+	margin: auto;
+	width: 320px;
+	height: 185px; 
+	}
+	
+iframe{
+    display: block;
+    margin-top: 25px;
+    margin: auto;
+    width: 100%;
+	}

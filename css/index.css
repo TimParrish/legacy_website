@@ -1,0 +1,12 @@
+#heroImage img{
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    width: 70%;
+    border-radius: 15px 15px 15px 15px;
+}
+
+#photoLabel{
+	text-align: center;
+	}

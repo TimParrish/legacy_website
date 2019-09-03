@@ -1,0 +1,47 @@
+#container{
+	width 900px;
+	margin: 0px auto;
+	padding: 0px;
+	text-align: left;
+	}
+
+
+#leftCol{
+	width: 600px;
+	float: left;
+	}
+
+img{
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    width: 50%;
+    border-radius: 15px 15px 15px 15px;
+    }
+	
+
+#centerCol{
+	width: 150 px; 
+	float: left;
+	padding-left: 25px;
+	}
+
+
+#rightCol{
+	width: 50px;
+	float: right;
+	}
+
+
+.left{
+	float: left;
+	}	
+	
+
+.right{
+	float: right;
+	}
+	
+	
+	
